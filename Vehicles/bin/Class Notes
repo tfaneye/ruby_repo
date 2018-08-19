@@ -29,3 +29,8 @@ Git Termilogies
 3)Origin branch
 4)local branch
 5)HEAD
+
+Creating a branch
+=================
+to check for branches ===> git branch
+to create branch ==> git branch <branch_name>
