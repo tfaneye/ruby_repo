@@ -16,3 +16,16 @@ PRIMITIVE DATATYPES
 7)char {single character eg 'A'}
 8)boolean {true or false}, default value is false
 9)String {String name = "Tunde";}
+
+
+Git Technology
+
+loosely define => git is a timelime management utility.
+Real definition => git is a version control system
+
+Git Termilogies
+1)Origin Master - or Git Server
+2)Local master
+3)Origin branch
+4)local branch
+5)HEAD
