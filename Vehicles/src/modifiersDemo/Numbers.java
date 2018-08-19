@@ -14,6 +14,11 @@ public class Numbers {
 			rate = 30;
 			double newSalary = workingHour * rate;
 			System.out.println("My new salary for a day is = £" + newSalary);
+			if(rate == 30.0) {
+				workingHour = 6;
+				double currentSal = workingHour * rate;
+				System.out.println("My current salary for a day is = £" + currentSal);
+			}
 		}
 
 	}
