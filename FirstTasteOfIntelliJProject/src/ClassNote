@@ -1,0 +1,23 @@
+Conversion from one data type to another.
+========================================
+1)int
+2)double
+3)long
+4)float
+5)boolean
+6)String
+
+Java Operators
+==============
+There are about 4 categories of Java Operators
+1) Arithmetic Operators {+, -, *, /, %, ++, --}
+2) Relational Operators {==, !=, >, <, >=, <=}
+3) Logical Operators {&&, ||, !}
+4) The assignment Operators {=, +=, -=} a = 2; a += b => a = a+b; a -= b => a = a-b;
+5) String Operators {+ => Tunde + Faneye = TundeFaneye}
+
+Control Flow Statements
+There are 3 broad categories
+1) Decision-Making Statements {if, if-else, switch}
+2) Looping Statements
+3) Branching Statements
