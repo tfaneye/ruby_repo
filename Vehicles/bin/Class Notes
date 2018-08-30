@@ -23,7 +23,7 @@ Git Technology
 loosely define => git is a timelime management utility.
 Real definition => git is a version control system
 
-Git Termilogies
+Git Terminologies
 1)Origin Master - or Git Server
 2)Local master
 3)Origin branch
