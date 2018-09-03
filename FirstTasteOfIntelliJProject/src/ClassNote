@@ -32,3 +32,45 @@ There are 3 broad categories
 Assignment:
 1) Print out the number of i in mississipi
 2) Write an if-else statement to print the months in a year
+
+Constructors:
+Usage:
+1)Constructor initialises instance variables at the run time
+2)if don't create constructor, compile will create a default one at the run time
+3)Each time you create an object, you are invoking a constructor
+
+Rule:
+1) Constructor must bear the same name as the class
+2) Constructor must not have a return type
+3) Constructor cannot be abstract, static, or final
+
+There are basically two types of constructors:
+1)Default i.e this when you do not declare a constructor
+2)Parameterized constructors
+============================================
+
+Taking Input
+------------
+1) BufferedReader class
+2) Scanner class
+
+Class work
+Build an app called Commission App
+This app should be able to calculate commission based on the sales.
+This commission will be based on % of different sale range
+
+Requirements
+=> Any sales between £1 and £99 inclusive should be given commission of 2.5%
+=> Any sales between £100 and £500 inclusive should be given commission of 8%
+=> Any sales between £501 and £1000 inclusive should be given commission of 12.5%
+=> Any sales between £1001 and £5000 inclusive should be given commission of 17.5%
+=> Any sales above £5000 should be given commission of 23%
+=> The system should be able to inform the Sales Rep what commission they have earned and the net amount
+    that should go into company's account.
+
+Creating and Reading data from File
+===================================
+Java Classes that will help us create and read from files
+1) File class
+2) FileWriter class
+3) InputStreamReader
