@@ -1,0 +1,7 @@
+﻿The task is to build a Vending Machine
+The machine should be able to dispence different types of 
+hot and cold drinks e.g Coffee, Tea, Hot Chocolates, Orange Juice etc
+The machine should prompt users for their choice of drink
+User should be able to choose whether or not to add milk
+or sugar
+The machine should be able to politely decline users with unkown request 
