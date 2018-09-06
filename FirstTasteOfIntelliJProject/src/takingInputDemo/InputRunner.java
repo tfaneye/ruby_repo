@@ -9,8 +9,12 @@ public class InputRunner {
         //calculator.performAddition();
         */
 
-        CreateFile createFile = new CreateFile();
+        /*CreateFile createFile = new CreateFile();
         //createFile.createOurFirstFile();
-        createFile.writeIntoFile();
+        createFile.writeIntoFile();*/
+
+        ReadingFile readingFile = new ReadingFile();
+        //readingFile.readPlainText();
+        readingFile.readPropertiesText();
     }
 }
