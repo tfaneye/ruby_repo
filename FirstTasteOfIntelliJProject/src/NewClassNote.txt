@@ -1,1 +1,79 @@
-This is our first file we are writing into!!
+Conversion from one data type to another.
+========================================
+1)int
+2)double
+3)long
+4)float
+5)boolean
+6)String
+
+Java Operators
+==============
+There are about 4 categories of Java Operators
+1) Arithmetic Operators {+, -, *, /, %, ++, --}
+2) Relational Operators {==, !=, >, <, >=, <=}
+3) Logical Operators {&&, ||, !}
+4) The assignment Operators {=, +=, -=} a = 2; a += b => a = a+b; a -= b => a = a-b;
+5) String Operators {+ => Tunde + Faneye = TundeFaneye}
+
+Control Flow Statements
+There are 3 broad categories
+1) Decision-Making Statements {if, if-else, switch}
+   ==> An if-else statement can test expressions based on ranges of values or boolean conditions
+   while a switch statement tests expressions based on a single integer, enumerated value or
+   String object
+2) Looping Statements {while, do-while, for}
+    for loop syntax:
+            for(initialisation; termination; increment){
+                //statement
+            {
+3) Branching Statements {break, continue, return}
+
+Assignment:
+1) Print out the number of i in mississipi
+2) Write an if-else statement to print the months in a year
+
+Constructors:
+Usage:
+1)Constructor initialises instance variables at the run time
+2)if don't create constructor, compile will create a default one at the run time
+3)Each time you create an object, you are invoking a constructor
+
+Rule:
+1) Constructor must bear the same name as the class
+2) Constructor must not have a return type
+3) Constructor cannot be abstract, static, or final
+
+There are basically two types of constructors:
+1)Default i.e this when you do not declare a constructor
+2)Parameterized constructors
+============================================
+
+Taking Input
+------------
+1) BufferedReader class
+2) Scanner class
+
+Class work
+Build an app called Commission App
+This app should be able to calculate commission based on the sales.
+This commission will be based on % of different sale range
+
+Requirements
+=> Any sales between £1 and £99 inclusive should be given commission of 2.5%
+=> Any sales between £100 and £500 inclusive should be given commission of 8%
+=> Any sales between £501 and £1000 inclusive should be given commission of 12.5%
+=> Any sales between £1001 and £5000 inclusive should be given commission of 17.5%
+=> Any sales above £5000 should be given commission of 23%
+=> The system should be able to inform the Sales Rep what commission they have earned and the net amount
+    that should go into company's account.
+
+Creating and Reading data from File
+===================================
+Java Classes that will help us create and read from files
+1) File class
+2) FileWriter class
+
+Reading data from files
+1)FileReader class => allows us to read plain text from txt file (notepad)
+2)FileInputStream class
