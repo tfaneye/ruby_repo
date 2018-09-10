@@ -75,5 +75,5 @@ Java Classes that will help us create and read from files
 2) FileWriter class
 
 Reading data from files
-1)FileReader class => allows us to read plain text from txt file (notepad)
-2)FileInputStream class
+1)FileReader class + BufferedReader class => allows us to read plain text from txt file (notepad)
+2)FileInputStream class + Properties class

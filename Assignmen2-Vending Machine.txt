@@ -5,3 +5,17 @@ The machine should prompt users for their choice of drink
 User should be able to choose whether or not to add milk
 or sugar
 The machine should be able to politely decline users with unkown request 
+
+Ans:
+
+Drinks: Coffee, Tea, Hot Chocolate, Vegitable Soup
+if coffee;
+Ask customer for white or black coffee, and number of sugar
+
+if Tea;
+ask for Normal or Herbal
+if normal; white or black, and number of sugar
+if herbal, sugar?
+
+CR:
+User must not be able to use more than 3 sugars
