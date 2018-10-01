@@ -77,3 +77,17 @@ Java Classes that will help us create and read from files
 Reading data from files
 1)FileReader class + BufferedReader class => allows us to read plain text from txt file (notepad)
 2)FileInputStream class + Properties class
+
+Object Oriented Programing Language Concepts
+============================================
+1) Encapsulation
+2) Inheritance
+3) Polymorphism
+4) Abstraction
+
+ENCAPSULATION: Data Hiding
+All variables must be declared private
+All methods must be public
+If you want expose your variables, you must do so through a special method called getters
+If you want to change the value of your states (variables), you must do so through a special
+    method called setters
