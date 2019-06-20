@@ -12,6 +12,8 @@ public class MyNewException {
 		
 		ExampleArray ea = new ExampleArray();
 		ea.getDirection();
+		
+		
 
 	}
 
